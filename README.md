@@ -29,7 +29,6 @@ num1=int(input())
 iternum=100
 squareroot(num1,iternum)
 ```
-
 ## Output:
 ![Screenshot 2023-01-21 204801](https://user-images.githubusercontent.com/121166075/213873628-1d082ad7-0000-4eaa-94ea-0fd84701bb71.png)
 
